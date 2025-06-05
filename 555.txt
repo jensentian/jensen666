@@ -75,13 +75,15 @@ CCTV-17,http://39.134.65.106/PLTV/88888888/224/3221225708/1.m3u8
 CCTV-17,http://39.135.135.88/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225765/index.m3u8
 
 CHC影迷电影,http://39.134.19.155:80/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226463/index.m3u8
+CHC影迷电影,http://hlsztemgsplive.miguvideo.com:8080/migu/kailu/chcymdy/57/20250415/01.m3u8?msisdn=ac136028b9497a33e7527a7c61a57309&mdspid=&spid=699004&netType=4&sid=5910022176&pid=2028597139&timestamp=20250605100159&Channel_ID=0116_2600035000-99000-201600010001107&ProgramID=952383261&ParentNodeID=-99&assertID=5910022176&client_ip=150.138.78.253&SecurityKey=20250605100159&promotionId=&mvid=5900006704&mcid=500020&playurlVersion=WX-A1-8.6.0-RELEASE&userid=1303034153&jmhm=ac136028b9497a33e7527a7c61a57309&videocodec=h264&bean=mgspad&tid=android&conFee=0&mtv_session=f39d18e2b788c613f65896c4efc79e29&HlsSubType=1&HlsProfileId=1&nphaid=0&encrypt=bbcef5f6e0d046366aa10675594e4734
 CHC影迷电影,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226463/index.m3u8
 CHC影迷电影,http://110.53.52.63:8888/newlive/live/hls/52/live.m3u8
+CHC家庭影院,http://hlsztemgsplive.miguvideo.com:8080/wd_r3/cnr/chcjtyy/3000/01.m3u8?msisdn=ac136028b9497a33e7527a7c61a57309&mdspid=&spid=699004&netType=4&sid=5500554911&pid=2028600738&timestamp=20250605100155&Channel_ID=0116_2600035000-99000-201600010001107&ProgramID=644368373&ParentNodeID=-99&assertID=5500554911&client_ip=150.138.78.253&SecurityKey=20250605100155&promotionId=&mvid=5102072861&mcid=500020&playurlVersion=WX-A1-8.6.0-RELEASE&userid=1303034153&jmhm=ac136028b9497a33e7527a7c61a57309&videocodec=h264&bean=mgspad&tid=android&conFee=1&mtv_session=73627c42a374a7c859d700909fad9470&HlsSubType=1&HlsProfileId=1&nphaid=0&encrypt=368e662a23418113143240e54e063605
 CHC家庭影院,http://39.134.19.41:80/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226462/index.m3u8
 CHC家庭影院,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226462/index.m3u8
+CHC动作电影,http://hlsztemgsplive.miguvideo.com:8080/migu/kailu/chcdzdy/57/20250514/01.m3u8?msisdn=ac136028b9497a33e7527a7c61a57309&mdspid=&spid=699004&netType=4&sid=5500554795&pid=2028600738&timestamp=20250605100157&Channel_ID=0116_2600035000-99000-201600010001107&ProgramID=644368714&ParentNodeID=-99&assertID=5500554795&client_ip=150.138.78.253&SecurityKey=20250605100157&promotionId=&mvid=5102072875&mcid=500020&playurlVersion=WX-A1-8.6.0-RELEASE&userid=1303034153&jmhm=ac136028b9497a33e7527a7c61a57309&videocodec=h264&bean=mgspad&tid=android&conFee=1&mtv_session=ca88b239175a3e026f7f3116eeeea0af&HlsSubType=1&HlsProfileId=1&nphaid=0&encrypt=1a61e518d84d3bee0a35ae5af2ee575f
 CHC动作电影,http://39.134.19.59:80/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226465/index.m3u8
 CHC动作电影,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226465/index.m3u8
-CHC华诚影视,http://120.76.248.139/live/bfgd/4200000289.m3u8
 广东卫视,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225803/index.m3u8
 广东卫视,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226216/index.m3u8
 广东卫视,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225757/index.m3u8
@@ -90,6 +92,7 @@ CHC华诚影视,http://120.76.248.139/live/bfgd/4200000289.m3u8
 湖南卫视,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225799/index.m3u8
 湖南卫视,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226211/index.m3u8
 湖南卫视,http://39.134.65.106/PLTV/88888888/224/3221225977/1.m3u8
+湖南卫视,http://39.134.65.71/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225610/index.m3u8
 湖南卫视,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225787/index.m3u8
 金鹰纪实,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226351/index.m3u8
 金鹰纪实,http://39.134.24.162:80/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226351/index.m3u8
@@ -127,8 +130,8 @@ CHC华诚影视,http://120.76.248.139/live/bfgd/4200000289.m3u8
 黑龙江卫视,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225802/index.m3u8
 黑龙江卫视,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226215/index.m3u8
 黑龙江卫视,http://39.134.65.106/PLTV/88888888/224/3221226056/1.m3u8
-湖北卫视,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226194/index.m3u8
 湖北卫视,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226206/index.m3u8
+湖北卫视,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226194/index.m3u8
 湖北卫视,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225760/index.m3u8
 湖北卫视,http://39.134.65.106/PLTV/88888888/224/3221225975/1.m3u8
 安徽卫视,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226196/index.m3u8
@@ -138,6 +141,7 @@ CHC华诚影视,http://120.76.248.139/live/bfgd/4200000289.m3u8
 重庆卫视,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226202/index.m3u8
 重庆卫视,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225791/index.m3u8
 重庆卫视,http://39.134.65.106/PLTV/88888888/224/3221225963/1.m3u8
+重庆卫视,http://hlsliveali-cdn.ysp.cctv.cn:80/DE546E15C5919C9DD48A6C627AF2FB07B913DF54A5FF724EAA4D05D5F0049494681AAE1CFA11C47F24078FA6E487A26B6F74DFC848E73553B619B77FC764325FB7AA7C6ACCFCC8A2DE3C9D167D71FBA955A28F29DF7BE242E686EA48DCB16C5F6FEF3D9E59A9398E35C0875F5EDB6B76611B4E5D908DBEC9A89FECCE4C7492CD7A9613BF03D2E29975E2EB7719B3367AD715F14F241D0284F0B40F4EFCDF4AE5296224A64AED16BA07C63F07F8578D7D/2024061102.m3u8
 山东卫视,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226209/index.m3u8
 山东卫视,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225771/index.m3u8
 山东卫视,http://39.134.65.106/PLTV/88888888/224/3221225952/1.m3u8
@@ -149,9 +153,12 @@ CHC华诚影视,http://120.76.248.139/live/bfgd/4200000289.m3u8
 贵州卫视,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225793/index.m3u8
 贵州卫视,http://39.134.65.106/PLTV/88888888/224/3221225974/1.m3u8
 新疆卫视,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225747/index.m3u8
+新疆卫视,http://hlsliveali-cdn.ysp.cctv.cn:80/98CC1F3E32EB3DB8132ADE668C0E871D296DE0D4115D98298737B8EC203DBD9ED4F159312E19BBF21607EB7DC6465E8CEDCBFABC9BAAC2C666D2EDE31F55DD3EF96CFE1D536107400496A5171A65F8F11CE4FCB015E6CF4DB39769C0B85711C9B0290A997E04DF7EF368442B9FE4D5C458F9B311414E33438D51F66075BED0ECE786668A49DF6FAD9667A14B5D089E9B3712FD20C841B42DBD89CD4AC3FAA6082E9672E32CB998FF336A463CBBF620F6/2019927402.m3u8
 河北卫视,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225750/index.m3u8
 内蒙古卫视,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225786/index.m3u8
+内蒙古卫视,http://39.135.133.164:80/wh7f454c46tw929201260_-1577948404/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226389/index.m3u8
 青海卫视,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225794/index.m3u8
+青海卫视,http://39.135.133.167:80/wh7f454c46tw814571741_-220415303/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226323/index.m3u8
 四川卫视,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225768/index.m3u8
 四川卫视,http://39.134.65.106/PLTV/88888888/224/3221225970/1.m3u8
 陕西卫视,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225821/index.m3u8
@@ -162,31 +169,33 @@ CHC华诚影视,http://120.76.248.139/live/bfgd/4200000289.m3u8
 农林卫视,http://39.134.24.162:80/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226229/index.m3u8
 农林卫视,http://stream.snrtv.com:80/sxbc-nl-DOPRVZ.m3u8
 西藏卫视,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226212/index.m3u8
-甘肃卫视,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225754/index.m3u8
+西藏卫视,http://39.134.67.148:80/ottrrs.hl.chinamobile.com/hlj/yd/0/3221226433/.m3u8
 海南卫视,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225769/index.m3u8
 海南卫视,http://39.134.65.106/PLTV/88888888/224/3221225978/1.m3u8
 吉林卫视,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225792/index.m3u8
 吉林卫视,http://39.134.65.106/PLTV/88888888/224/3221225981/1.m3u8
 山西卫视,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225763/index.m3u8
+山西卫视,http://hlsliveali-cdn.ysp.cctv.cn:80/D57BE51996D3321BAE33670E76E63472C45D5711093EE76540F3305A95574ED3D70F1EFB8FE5F30D47C084343421C108427750486EB07388D60A9939EED8F465C60E98F0DAB192CD1CCECBAE1FE7E9C9771FB8332DB1F88D428EA126105F15B70639CC280BE80263544142687BC8AAB925669B9ED7C71981818052AA7B2B403C4303886669BE88416DB124A97DA61CD9DDFADEE6F1742ADAEFE4949B9EAEF6A8359D584B8AF88557EF93A20A29AB081D/2025560802.m3u8
 云南卫视,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225751/index.m3u8
 云南卫视,http://39.134.65.106/PLTV/88888888/224/3221225957/1.m3u8
 河南卫视,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225767/index.m3u8
 河南卫视,http://39.134.65.106/PLTV/88888888/224/3221225988/1.m3u8
 宁夏卫视,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225748/index.m3u8
+宁夏卫视,http://hlsliveali-cdn.ysp.cctv.cn:80/E90DF97342B1C306FAA28898B0E6DE7610352B6F3A4E2FFD47F6C528623681D6A8AA8BA6FDC70CAB16E866640EFF10140D07BE262C69D6B1D7B1328B6247C1B7D4642835164665F65893C50EEF2EDE604E4B48065350875F3DDC211977C5396D914700531E61A891A4581A88BA2B470997799C4610DCB02D352C557148798741CA4397EDA9A796C5CDC3E2E50DDB0001143362F0A1FA4ABE4C5873CE170C8446608578BD80D899F566C6BD686170CA45/2025608502.m3u8
 河北卫视,http://39.134.65.106/PLTV/88888888/224/3221225961/1.m3u8
 江苏卫视,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225746/index.m3u8
 江苏卫视,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226241/index.m3u8
 江苏卫视,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226242/index.m3u8
 江苏卫视,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226245/index.m3u8
 江苏卫视,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226246/index.m3u8
-
 兵团卫视,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226214/index.m3u8
+兵团卫视,http://liveout.btzx.com.cn:80/62ds9e/yil08g.m3u8
 厦门卫视,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226219/index.m3u8
 延边卫视,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226220/index.m3u8
 安多卫视,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226228/index.m3u8
 康巴卫视,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226234/index.m3u8
 
-湖南卫视,http://39.134.65.71/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225610/index.m3u8
+
 江苏卫视,http://39.135.133.181/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226310/index.m3u8
 北京卫视,http://39.135.135.11/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225728/index.m3u8
 浙江卫视,http://39.134.65.71/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225612/index.m3u8
@@ -221,9 +230,13 @@ CHC华诚影视,http://120.76.248.139/live/bfgd/4200000289.m3u8
 安多卫视,http://39.134.65.78/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225659/index.m3u8
 甘肃卫视,http://39.134.65.67/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225633/index.m3u8
 甘肃卫视,http://39.134.65.196:80/PLTV/88888888/224/3221225584/1.m3u8
+甘肃卫视,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225754/index.m3u8
+甘肃卫视,http://bkhlsliveali-cdn.ysp.cctv.cn:80/5945D24298A52A8E99F0B3AF46FA42B257896D6914BD69CEBCF5F27A713209CF9EE02703CA2EA768DC9AF76F9FF728D4A00C604A6E4C8E9A5A5C738312D3AA2D2F7CF47092B92EFFAE99B25EFAB0F76A0F3ECC4ABB9D027983CDBECD889DE1489AEB413BC5CA6B1243C0345FDD08219268ED8341AA14B58E4723049664271EFB51C853AB20B2251A1F5CBF91571EF73EA2B0C1437BCC24EE003318A90F587A31AEA2E66DDC51AC0E3CBC23C16E799907/2025561702.m3u8
 兵团卫视,http://39.135.133.178/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226439/index.m3u8
 陕西卫视,http://39.134.65.2/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225625/index.m3u8
 宁夏卫视,http://39.134.65.7/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225632/index.m3u8
+
+大湾区卫视,http://hlsztemgsplive.miguvideo.com:8080/wd_r3/2018/nfmedia/nfws/1000/01.m3u8?msisdn=ac136028b9497a33e7527a7c61a57309&mdspid=&spid=699054&netType=4&sid=2200322852&pid=2028597139&timestamp=20250605100311&Channel_ID=0116_2600035000-99000-201600010001107&ProgramID=608917627&ParentNodeID=-99&assertID=2200322852&client_ip=150.138.78.253&SecurityKey=20250605100311&promotionId=&mvid=2200322852&mcid=500020&playurlVersion=WX-A1-8.6.0-RELEASE&userid=1303034153&jmhm=ac136028b9497a33e7527a7c61a57309&videocodec=h264&bean=mgspad&tid=android&conFee=0&mtv_session=17be669d87aa07b30d3848f67021fe62&HlsSubType=1&HlsProfileId=1&nphaid=0&encrypt=79df2df81bdaa0145f83c2d62d1a0b2f
 
 CCTV-1,http://[2409:8087:7000:20::4]:80/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226231/1.m3u8
 CCTV-2,http://[2409:8087:7000:20::4]:80/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226195/1.m3u8
