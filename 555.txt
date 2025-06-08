@@ -156,9 +156,9 @@ CHC动作电影,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226465/in
 山东卫视,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225771/index.m3u8
 山东卫视,http://39.134.65.106/PLTV/88888888/224/3221225952/1.m3u8
 山东卫视,http://39.135.133.144/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226456/index.m3u8
-山东教育卫视,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226238/index.m3u8
-山东教育卫视,http://39.134.65.106:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225655/index.m3u8
-山东教育卫视,http://39.134.65.79/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225655/index.m3u8
+山东教育,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226238/index.m3u8
+山东教育,http://39.134.65.106:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225655/index.m3u8
+山东教育,http://39.134.65.79/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225655/index.m3u8
 东南卫视,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225766/index.m3u8
 东南卫视,http://39.134.65.106/PLTV/88888888/224/3221225950/index.m3u8
 东南卫视,http://39.134.65.77/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225620/index.m3u8
@@ -265,7 +265,7 @@ CHC动作电影,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226465/in
 哈哈炫动,http://39.134.67.148:80/ottrrs.hl.chinamobile.com/hlj/yd/0/3221225657/.m3u8
 优漫卡通,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225795/index.m3u8
 优漫卡通,http://39.134.67.148:80/ottrrs.hl.chinamobile.com/hlj/yd/0/3221225656/.m3u8
-KAKU少儿,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225743/index.m3u8
+卡酷少儿,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225743/index.m3u8
 嘉佳卡通,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226227/index.m3u8
 陕西新闻资讯,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226357/index.m3u8
 陕西西部电影,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226364/index.m3u8
@@ -309,7 +309,7 @@ CCTV女性时尚,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226237/i
 
 康巴卫视,http://39.134.65.106:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225660/index.m3u8
 安多卫视,http://39.134.65.106:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225659/index.m3u8
-山东教育卫视,http://39.134.65.106:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225655/index.m3u8
+山东教育,http://39.134.65.106:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225655/index.m3u8
 延边卫视,http://39.134.65.106:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226516/index.m3u8
 兵团卫视,http://39.134.65.106:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226439/index.m3u8
 西藏卫视,http://39.134.65.106:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225638/index.m3u8
