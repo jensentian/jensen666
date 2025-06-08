@@ -315,11 +315,11 @@ http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225771/index.m3u8
 http://39.134.65.106/PLTV/88888888/224/3221225952/1.m3u8
 #EXTINF:-1 tvg-name="山东卫视" tvg-logo="https://gitee.com/qttv/tv/raw/master/logo/山东卫视.png" epg-url="https://live.kilvn.com/epg.xml.gz,https://e.erw.cc/all.xml.gz,http://epg.51zmt.top:8000/e.xml.gz",山东卫视
 http://39.135.133.144/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226456/index.m3u8
-#EXTINF:-1 tvg-name="山东教育卫视" tvg-logo="https://gitee.com/qttv/tv/raw/master/logo/山东教育卫视.png" epg-url="https://live.kilvn.com/epg.xml.gz,https://e.erw.cc/all.xml.gz,http://epg.51zmt.top:8000/e.xml.gz",山东教育卫视
+#EXTINF:-1 tvg-name="山东教育" tvg-logo="https://livecdn.zbds.top/logo/山东教育.png" epg-url="https://live.kilvn.com/epg.xml.gz,https://e.erw.cc/all.xml.gz,http://epg.51zmt.top:8000/e.xml.gz",山东教育
 http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226238/index.m3u8
-#EXTINF:-1 tvg-name="山东教育卫视" tvg-logo="https://gitee.com/qttv/tv/raw/master/logo/山东教育卫视.png" epg-url="https://live.kilvn.com/epg.xml.gz,https://e.erw.cc/all.xml.gz,http://epg.51zmt.top:8000/e.xml.gz",山东教育卫视
+#EXTINF:-1 tvg-name="山东教育" tvg-logo="https://livecdn.zbds.top/logo/山东教育.png" epg-url="https://live.kilvn.com/epg.xml.gz,https://e.erw.cc/all.xml.gz,http://epg.51zmt.top:8000/e.xml.gz",山东教育
 http://39.134.65.106:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225655/index.m3u8
-#EXTINF:-1 tvg-name="山东教育卫视" tvg-logo="https://gitee.com/qttv/tv/raw/master/logo/山东教育卫视.png" epg-url="https://live.kilvn.com/epg.xml.gz,https://e.erw.cc/all.xml.gz,http://epg.51zmt.top:8000/e.xml.gz",山东教育卫视
+#EXTINF:-1 tvg-name="山东教育" tvg-logo="https://livecdn.zbds.top/logo/山东教育.png" epg-url="https://live.kilvn.com/epg.xml.gz,https://e.erw.cc/all.xml.gz,http://epg.51zmt.top:8000/e.xml.gz",山东教育
 http://39.134.65.79/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225655/index.m3u8
 #EXTINF:-1 tvg-name="东南卫视" tvg-logo="https://gitee.com/qttv/tv/raw/master/logo/东南卫视.png" epg-url="https://live.kilvn.com/epg.xml.gz,https://e.erw.cc/all.xml.gz,http://epg.51zmt.top:8000/e.xml.gz",东南卫视
 http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225766/index.m3u8
@@ -521,15 +521,15 @@ http://39.134.65.106/PLTV/88888888/224/3221225529/1.m3u8
 http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225744/index.m3u8
 #EXTINF:-1 tvg-name="金鹰卡通" tvg-logo="https://gitee.com/qttv/tv/raw/master/logo/金鹰卡通.png" epg-url="https://live.kilvn.com/epg.xml.gz,https://e.erw.cc/all.xml.gz,http://epg.51zmt.top:8000/e.xml.gz",金鹰卡通
 http://39.134.67.148:80/ottrrs.hl.chinamobile.com/hlj/yd/0/3221225653/.m3u8
-#EXTINF:-1 tvg-name="哈哈炫动" tvg-logo="https://gitee.com/qttv/tv/raw/master/logo/哈哈炫动.png" epg-url="https://live.kilvn.com/epg.xml.gz,https://e.erw.cc/all.xml.gz,http://epg.51zmt.top:8000/e.xml.gz",哈哈炫动
+#EXTINF:-1 tvg-name="哈哈炫动" tvg-logo="https://gcore.jsdelivr.net/gh/yuanzl77/TVlogo@master/png/哈哈炫动.png" epg-url="https://live.kilvn.com/epg.xml.gz,https://e.erw.cc/all.xml.gz,http://epg.51zmt.top:8000/e.xml.gz",哈哈炫动
 http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226213/index.m3u8
-#EXTINF:-1 tvg-name="哈哈炫动" tvg-logo="https://gitee.com/qttv/tv/raw/master/logo/哈哈炫动.png" epg-url="https://live.kilvn.com/epg.xml.gz,https://e.erw.cc/all.xml.gz,http://epg.51zmt.top:8000/e.xml.gz",哈哈炫动
+#EXTINF:-1 tvg-name="哈哈炫动" tvg-logo="https://gcore.jsdelivr.net/gh/yuanzl77/TVlogo@master/png/哈哈炫动.png" epg-url="https://live.kilvn.com/epg.xml.gz,https://e.erw.cc/all.xml.gz,http://epg.51zmt.top:8000/e.xml.gz",哈哈炫动
 http://39.134.67.148:80/ottrrs.hl.chinamobile.com/hlj/yd/0/3221225657/.m3u8
 #EXTINF:-1 tvg-name="优漫卡通" tvg-logo="https://gitee.com/qttv/tv/raw/master/logo/优漫卡通.png" epg-url="https://live.kilvn.com/epg.xml.gz,https://e.erw.cc/all.xml.gz,http://epg.51zmt.top:8000/e.xml.gz",优漫卡通
 http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225795/index.m3u8
 #EXTINF:-1 tvg-name="优漫卡通" tvg-logo="https://gitee.com/qttv/tv/raw/master/logo/优漫卡通.png" epg-url="https://live.kilvn.com/epg.xml.gz,https://e.erw.cc/all.xml.gz,http://epg.51zmt.top:8000/e.xml.gz",优漫卡通
 http://39.134.67.148:80/ottrrs.hl.chinamobile.com/hlj/yd/0/3221225656/.m3u8
-#EXTINF:-1 tvg-name="KAKU少儿" tvg-logo="https://gitee.com/qttv/tv/raw/master/logo/KAKU少儿.png" epg-url="https://live.kilvn.com/epg.xml.gz,https://e.erw.cc/all.xml.gz,http://epg.51zmt.top:8000/e.xml.gz",KAKU少儿
+#EXTINF:-1 tvg-name="卡酷少儿" tvg-logo="https://gcore.jsdelivr.net/gh/yuanzl77/TVlogo@master/png/卡酷少儿.png" epg-url="https://live.kilvn.com/epg.xml.gz,https://e.erw.cc/all.xml.gz,http://epg.51zmt.top:8000/e.xml.gz",卡酷少儿
 http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225743/index.m3u8
 #EXTINF:-1 tvg-name="嘉佳卡通" tvg-logo="https://gitee.com/qttv/tv/raw/master/logo/嘉佳卡通.png" epg-url="https://live.kilvn.com/epg.xml.gz,https://e.erw.cc/all.xml.gz,http://epg.51zmt.top:8000/e.xml.gz",嘉佳卡通
 http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226227/index.m3u8
@@ -615,7 +615,7 @@ http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226247/index.m3u8
 http://39.134.65.106:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225660/index.m3u8
 #EXTINF:-1 tvg-name="安多卫视" tvg-logo="https://gitee.com/qttv/tv/raw/master/logo/安多卫视.png" epg-url="https://live.kilvn.com/epg.xml.gz,https://e.erw.cc/all.xml.gz,http://epg.51zmt.top:8000/e.xml.gz",安多卫视
 http://39.134.65.106:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225659/index.m3u8
-#EXTINF:-1 tvg-name="山东教育卫视" tvg-logo="https://gitee.com/qttv/tv/raw/master/logo/山东教育卫视.png" epg-url="https://live.kilvn.com/epg.xml.gz,https://e.erw.cc/all.xml.gz,http://epg.51zmt.top:8000/e.xml.gz",山东教育卫视
+#EXTINF:-1 tvg-name="山东教育" tvg-logo="https://livecdn.zbds.top/logo/山东教育.png" epg-url="https://live.kilvn.com/epg.xml.gz,https://e.erw.cc/all.xml.gz,http://epg.51zmt.top:8000/e.xml.gz",山东教育
 http://39.134.65.106:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225655/index.m3u8
 #EXTINF:-1 tvg-name="延边卫视" tvg-logo="https://gitee.com/qttv/tv/raw/master/logo/延边卫视.png" epg-url="https://live.kilvn.com/epg.xml.gz,https://e.erw.cc/all.xml.gz,http://epg.51zmt.top:8000/e.xml.gz",延边卫视
 http://39.134.65.106:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226516/index.m3u8
