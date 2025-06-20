@@ -1,6 +1,26 @@
 #EXTM3U x-tvg-url="http://epg.51zmt.top:8000/e.xml.gz,https://e.erw.cc/all.xml.gz,https://live.kilvn.com/epg.xml.gz" catchup="append" catchup-source="?playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}"
 #EXTINF:-1 tvg-name="CCTV1" tvg-logo="https://gitee.com/jensen6/logo/raw/main/CCTV-1.png" epg-url="http://epg.51zmt.top:8000/e.xml.gz,https://e.erw.cc/all.xml.gz,https://live.kilvn.com/epg.xml.gz",CCTV-1
-http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225804/index.m3u8#http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226231/index.m3u8#http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225783/index.m3u8#http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226239/index.m3u8
+http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225804/index.m3u8
+#EXTINF:-1 tvg-name="CCTV1" tvg-logo="https://gitee.com/jensen6/logo/raw/main/CCTV-1.png" epg-url="http://epg.51zmt.top:8000/e.xml.gz,https://e.erw.cc/all.xml.gz,https://live.kilvn.com/epg.xml.gz",CCTV-1
+http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226231/index.m3u8
+#EXTINF:-1 tvg-name="CCTV1" tvg-logo="https://gitee.com/jensen6/logo/raw/main/CCTV-1.png" epg-url="http://epg.51zmt.top:8000/e.xml.gz,https://e.erw.cc/all.xml.gz,https://live.kilvn.com/epg.xml.gz",CCTV-1
+http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225783/index.m3u8
+#EXTINF:-1 tvg-name="CCTV1" tvg-logo="https://gitee.com/jensen6/logo/raw/main/CCTV-1.png" epg-url="http://epg.51zmt.top:8000/e.xml.gz,https://e.erw.cc/all.xml.gz,https://live.kilvn.com/epg.xml.gz",CCTV-1
+http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226239/index.m3u8
+#EXTINF:-1 tvg-name="CCTV1" tvg-logo="https://gitee.com/jensen6/logo/raw/main/CCTV-1.png" epg-url="http://epg.51zmt.top:8000/e.xml.gz,https://e.erw.cc/all.xml.gz,https://live.kilvn.com/epg.xml.gz",CCTV-1
+http://39.134.65.106/PLTV/88888888/224/3221225816/1.m3u8
+#EXTINF:-1 tvg-name="CCTV1" tvg-logo="https://gitee.com/jensen6/logo/raw/main/CCTV-1.png" epg-url="http://epg.51zmt.top:8000/e.xml.gz,https://e.erw.cc/all.xml.gz,https://live.kilvn.com/epg.xml.gz",CCTV-1
+http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225804/index.m3u8
+#EXTINF:-1 tvg-name="CCTV1" tvg-logo="https://gitee.com/jensen6/logo/raw/main/CCTV-1.png" epg-url="http://epg.51zmt.top:8000/e.xml.gz,https://e.erw.cc/all.xml.gz,https://live.kilvn.com/epg.xml.gz",CCTV-1
+http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226461/index.m3u8
+#EXTINF:-1 tvg-name="CCTV1" tvg-logo="https://gitee.com/jensen6/logo/raw/main/CCTV-1.png" epg-url="http://epg.51zmt.top:8000/e.xml.gz,https://e.erw.cc/all.xml.gz,https://live.kilvn.com/epg.xml.gz",CCTV-1
+http://111.20.105.60:6060/yinhe/2/ch00000090990000001018/index.m3u8?virtualDomain=yinhe.live_hls.zte.com#http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226459/index.m3u8
+#EXTINF:-1 tvg-name="CCTV1" tvg-logo="https://gitee.com/jensen6/logo/raw/main/CCTV-1.png" epg-url="http://epg.51zmt.top:8000/e.xml.gz,https://e.erw.cc/all.xml.gz,https://live.kilvn.com/epg.xml.gz",CCTV-1
+http://111.20.105.60:6060/yinhe/2/ch00000090990000001068/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
+#EXTINF:-1 tvg-name="CCTV1" tvg-logo="https://gitee.com/jensen6/logo/raw/main/CCTV-1.png" epg-url="http://epg.51zmt.top:8000/e.xml.gz,https://e.erw.cc/all.xml.gz,https://live.kilvn.com/epg.xml.gz",CCTV-1
+http://111.20.105.60:6060/yinhe/2/ch00000090990000001326/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
+#EXTINF:-1 tvg-name="CCTV1" tvg-logo="https://gitee.com/jensen6/logo/raw/main/CCTV-1.png" epg-url="http://epg.51zmt.top:8000/e.xml.gz,https://e.erw.cc/all.xml.gz,https://live.kilvn.com/epg.xml.gz",CCTV-1
+http://111.20.105.60:6060/yinhe/2/ch00000090990000001331/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
 #EXTINF:-1 tvg-name="CCTV2" tvg-logo="https://gitee.com/jensen6/logo/raw/main/CCTV-2.png" epg-url="http://epg.51zmt.top:8000/e.xml.gz,https://e.erw.cc/all.xml.gz,https://live.kilvn.com/epg.xml.gz",CCTV-2
 http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226195/index.m3u8#http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226195/index.m3u8#http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226224/index.m3u8#http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225762/index.m3u8#http://39.135.133.177/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225588/index.m3u8#http://39.134.65.106/PLTV/88888888/224/3221226079/1.m3u8#http://111.20.105.60:6060/yinhe/2/ch00000090990000001021/index.m3u8?virtualDomain=yinhe.live_hls.zte.com#http://111.20.105.60:6060/yinhe/2/ch00000090990000001293/index.m3u8?virtualDomain=yinhe.live_hls.zte.com#http://111.20.105.60:6060/yinhe/2/ch00000090990000001332/index.m3u8?virtualDomain=yinhe.live_hls.zte.com#http://111.20.105.60:6060/yinhe/2/ch00000090990000001840/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
 #EXTINF:-1 tvg-name="CCTV3" tvg-logo="https://gitee.com/jensen6/logo/raw/main/CCTV-3.png" epg-url="http://epg.51zmt.top:8000/e.xml.gz,https://e.erw.cc/all.xml.gz,https://live.kilvn.com/epg.xml.gz",CCTV-3
@@ -40,13 +60,12 @@ http://39.134.18.69:80/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221227107/in
 #EXTINF:-1 tvg-name="韩城-2" tvg-logo="https://gitee.com/jensen6/logo/raw/main/韩城-2.png" epg-url="http://epg.51zmt.top:8000/e.xml.gz,https://e.erw.cc/all.xml.gz,https://live.kilvn.com/epg.xml.gz",韩城-2
 http://zycfcdn.gdwlcloud.com:80/PLTV/88888888/224/3221225965/index.m3u8
 #EXTINF:-1 tvg-name="CHC影迷电影" tvg-logo="https://gitee.com/jensen6/logo/raw/main/CHC影迷电影.png" epg-url="http://epg.51zmt.top:8000/e.xml.gz,https://e.erw.cc/all.xml.gz,https://live.kilvn.com/epg.xml.gz",CHC影迷电影
-http://39.134.19.155:80/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226463/index.m3u8#http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226463/1.m3u8
+http://39.134.19.155:80/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226463/index.m3u8
+#http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226463/index.m3u8
 #EXTINF:-1 tvg-name="CHC家庭影院" tvg-logo="https://gitee.com/jensen6/logo/raw/main/CHC家庭影院.png" epg-url="http://epg.51zmt.top:8000/e.xml.gz,https://e.erw.cc/all.xml.gz,https://live.kilvn.com/epg.xml.gz",CHC家庭影院
 http://39.134.19.41:80/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226462/index.m3u8#http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226462/index.m3u8
 #EXTINF:-1 tvg-name="CHC动作电影" tvg-logo="https://gitee.com/jensen6/logo/raw/main/CHC动作电影.png" epg-url="http://epg.51zmt.top:8000/e.xml.gz,https://e.erw.cc/all.xml.gz,https://live.kilvn.com/epg.xml.gz",CHC动作电影
 http://39.134.19.59:80/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226465/index.m3u8#http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226465/index.m3u8
-#EXTINF:-1 tvg-name="CHC高清电影" tvg-logo="https://gitee.com/jensen6/logo/raw/main/CHC高清电影.png" epg-url="http://epg.51zmt.top:8000/e.xml.gz,https://e.erw.cc/all.xml.gz,https://live.kilvn.com/epg.xml.gz",CHC高清电影
-http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226463/index.m3u8
 #EXTINF:-1 tvg-name="广东卫视" tvg-logo="https://gitee.com/jensen6/logo/raw/main/广东卫视.png" epg-url="http://epg.51zmt.top:8000/e.xml.gz,https://e.erw.cc/all.xml.gz,https://live.kilvn.com/epg.xml.gz",广东卫视
 http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225803/index.m3u8#http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226216/index.m3u8#http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225757/index.m3u8#http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226218/index.m3u8#http://39.134.65.106/PLTV/88888888/224/3221225966/1.m3u8#http://39.135.133.177/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226248/index.m3u8#http://111.20.105.60:6060/yinhe/2/ch00000090990000001031/index.m3u8?virtualDomain=yinhe.live_hls.zte.com#http://111.20.105.60:6060/yinhe/2/ch00000090990000001058/index.m3u8?virtualDomain=yinhe.live_hls.zte.com#http://111.20.105.60:6060/yinhe/2/ch00000090990000001337/index.m3u8?virtualDomain=yinhe.live_hls.zte.com#http://111.20.105.60:6060/yinhe/2/ch00000090990000001305/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
 #EXTINF:-1 tvg-name="湖南卫视" tvg-logo="https://gitee.com/jensen6/logo/raw/main/湖南卫视.png" epg-url="http://epg.51zmt.top:8000/e.xml.gz,https://e.erw.cc/all.xml.gz,https://live.kilvn.com/epg.xml.gz",湖南卫视
