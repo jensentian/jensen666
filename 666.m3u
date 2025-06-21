@@ -331,7 +331,7 @@ http://39.134.67.148:80/ottrrs.hl.chinamobile.com/hlj/yd/0/3221225656/.m3u8
 http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225743/index.m3u8
 #EXTINF:-1 tvg-name="嘉佳卡通" tvg-logo="https://gitee.com/jensen6/logo/raw/main/嘉佳卡通.png" epg-url="http://epg.51zmt.top:8000/e.xml.gz,https://live.kilvn.com/epg.xml.gz,https://e.erw.cc/all.xml.gz",嘉佳卡通
 http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226227/index.m3u8
-#EXTINF:-1 tvg-name="CCTV4K" tvg-logo="https://gitee.com/jensen6/logo/raw/main/CCTV-4K.png" epg-url="http://epg.51zmt.top:8000/e.xml.gz,https://live.kilvn.com/epg.xml.gz,https://e.erw.cc/all.xml.gz",CCTV-4K
+#EXTINF:-1 tvg-name="CCTV4K" tvg-logo="https://gitee.com/jensen6/logo/raw/main/CCTV4K.png" epg-url="http://epg.51zmt.top:8000/e.xml.gz,https://live.kilvn.com/epg.xml.gz,https://e.erw.cc/all.xml.gz",CCTV-4K
 http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221227140/index.m3u8
 #EXTINF:-1 tvg-name="CETV1" tvg-logo="https://gitee.com/jensen6/logo/raw/main/CETV1.png" epg-url="http://epg.51zmt.top:8000/e.xml.gz,https://live.kilvn.com/epg.xml.gz,https://e.erw.cc/all.xml.gz",CETV1
 http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225753/index.m3u8
@@ -403,8 +403,6 @@ http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226331/index.m3u8
 http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225990/index.m3u8
 #EXTINF:-1 tvg-name="汉中教育" tvg-logo="https://gitee.com/jensen6/logo/raw/main/汉中教育.png" epg-url="http://epg.51zmt.top:8000/e.xml.gz,https://live.kilvn.com/epg.xml.gz,https://e.erw.cc/all.xml.gz",汉中教育
 http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225991/index.m3u8
-#EXTINF:-1 tvg-name="留坝电视台" tvg-logo="https://gitee.com/jensen6/logo/raw/main/留坝电视台.png" epg-url="http://epg.51zmt.top:8000/e.xml.gz,https://live.kilvn.com/epg.xml.gz,https://e.erw.cc/all.xml.gz",留坝电视台
-http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226000/index.m3u8
 #EXTINF:-1 tvg-name="CCTV1" tvg-logo="https://gitee.com/jensen6/logo/raw/main/CCTV-1.png" epg-url="http://epg.51zmt.top:8000/e.xml.gz,https://live.kilvn.com/epg.xml.gz,https://e.erw.cc/all.xml.gz",CCTV-1
 http://111.20.105.60:6060/yinhe/2/ch00000090990000001331/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
 #EXTINF:-1 tvg-name="CCTV1" tvg-logo="https://gitee.com/jensen6/logo/raw/main/CCTV-1.png" epg-url="http://epg.51zmt.top:8000/e.xml.gz,https://live.kilvn.com/epg.xml.gz,https://e.erw.cc/all.xml.gz",CCTV-1
