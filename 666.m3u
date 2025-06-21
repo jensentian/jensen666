@@ -22,8 +22,6 @@ http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226397/index.m3u8
 #EXTINF:-1 tvg-name="CCTV3" tvg-logo="https://gitee.com/jensen6/logo/raw/main/CCTV-3.png" epg-url="http://epg.51zmt.top:8000/e.xml.gz,https://live.kilvn.com/epg.xml.gz,https://e.erw.cc/all.xml.gz",CCTV-3
 http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221227067/index.m3u8
 #EXTINF:-1 tvg-name="CCTV4" tvg-logo="https://gitee.com/jensen6/logo/raw/main/CCTV-4.png" epg-url="http://epg.51zmt.top:8000/e.xml.gz,https://live.kilvn.com/epg.xml.gz,https://e.erw.cc/all.xml.gz",CCTV-4
-http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226191/index.m3u8
-#EXTINF:-1 tvg-name="CCTV4" tvg-logo="https://gitee.com/jensen6/logo/raw/main/CCTV-4.png" epg-url="http://epg.51zmt.top:8000/e.xml.gz,https://live.kilvn.com/epg.xml.gz,https://e.erw.cc/all.xml.gz",CCTV-4
 http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226223/index.m3u8
 #EXTINF:-1 tvg-name="CCTV4" tvg-logo="https://gitee.com/jensen6/logo/raw/main/CCTV-4.png" epg-url="http://epg.51zmt.top:8000/e.xml.gz,https://live.kilvn.com/epg.xml.gz,https://e.erw.cc/all.xml.gz",CCTV-4
 http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225781/index.m3u8
@@ -331,7 +329,7 @@ http://39.134.67.148:80/ottrrs.hl.chinamobile.com/hlj/yd/0/3221225656/.m3u8
 http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225743/index.m3u8
 #EXTINF:-1 tvg-name="嘉佳卡通" tvg-logo="https://gitee.com/jensen6/logo/raw/main/嘉佳卡通.png" epg-url="http://epg.51zmt.top:8000/e.xml.gz,https://live.kilvn.com/epg.xml.gz,https://e.erw.cc/all.xml.gz",嘉佳卡通
 http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226227/index.m3u8
-#EXTINF:-1 tvg-name="CCTV4K" tvg-logo="https://gitee.com/jensen6/logo/raw/main/CCTV4K.png" epg-url="http://epg.51zmt.top:8000/e.xml.gz,https://live.kilvn.com/epg.xml.gz,https://e.erw.cc/all.xml.gz",CCTV-4K
+#EXTINF:-1 tvg-name="CCTV4K" tvg-logo="https://gitee.com/jensen6/logo/raw/main/CCTV-4K.png" epg-url="http://epg.51zmt.top:8000/e.xml.gz,https://live.kilvn.com/epg.xml.gz,https://e.erw.cc/all.xml.gz",CCTV-4K
 http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221227140/index.m3u8
 #EXTINF:-1 tvg-name="CETV1" tvg-logo="https://gitee.com/jensen6/logo/raw/main/CETV1.png" epg-url="http://epg.51zmt.top:8000/e.xml.gz,https://live.kilvn.com/epg.xml.gz,https://e.erw.cc/all.xml.gz",CETV1
 http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225753/index.m3u8
