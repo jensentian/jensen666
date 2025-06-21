@@ -299,7 +299,7 @@ http://39.134.65.106/PLTV/88888888/224/3221225728/1.m3u8
 http://39.134.65.106/PLTV/88888888/224/3221225730/1.m3u8
 #EXTINF:-1 tvg-name="生态环境" tvg-logo="https://gitee.com/jensen6/logo/raw/main/生态环境.png" epg-url="http://epg.51zmt.top:8000/e.xml.gz,https://live.kilvn.com/epg.xml.gz,https://e.erw.cc/all.xml.gz",生态环境
 http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226243/index.m3u8
-#EXTINF:-1 tvg-name="央视文化" tvg-logo="https://gitee.com/jensen6/logo/raw/main/央视文化.png" epg-url="http://epg.51zmt.top:8000/e.xml.gz,https://live.kilvn.com/epg.xml.gz,https://e.erw.cc/all.xml.gz",央视文化
+#EXTINF:-1 tvg-name="文化精品" tvg-logo="https://gitee.com/jensen6/logo/raw/main/文化精品.png" epg-url="http://epg.51zmt.top:8000/e.xml.gz,https://live.kilvn.com/epg.xml.gz,https://e.erw.cc/all.xml.gz",文化精品
 http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226981/index.m3u8
 #EXTINF:-1 tvg-name="发现之旅" tvg-logo="https://gitee.com/jensen6/logo/raw/main/发现之旅.png" epg-url="http://epg.51zmt.top:8000/e.xml.gz,https://live.kilvn.com/epg.xml.gz,https://e.erw.cc/all.xml.gz",发现之旅
 http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226235/index.m3u8
@@ -329,7 +329,7 @@ http://39.134.67.148:80/ottrrs.hl.chinamobile.com/hlj/yd/0/3221225656/.m3u8
 http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225743/index.m3u8
 #EXTINF:-1 tvg-name="嘉佳卡通" tvg-logo="https://gitee.com/jensen6/logo/raw/main/嘉佳卡通.png" epg-url="http://epg.51zmt.top:8000/e.xml.gz,https://live.kilvn.com/epg.xml.gz,https://e.erw.cc/all.xml.gz",嘉佳卡通
 http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226227/index.m3u8
-#EXTINF:-1 tvg-name="CCTV4K" tvg-logo="https://gitee.com/jensen6/logo/raw/main/CCTV-4K.png" epg-url="http://epg.51zmt.top:8000/e.xml.gz,https://live.kilvn.com/epg.xml.gz,https://e.erw.cc/all.xml.gz",CCTV-4K
+#EXTINF:-1 tvg-name="CCTV4K" tvg-logo="https://gitee.com/jensen6/logo/raw/main/CCTV4K.png" epg-url="http://epg.51zmt.top:8000/e.xml.gz,https://live.kilvn.com/epg.xml.gz,https://e.erw.cc/all.xml.gz",CCTV4K
 http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221227140/index.m3u8
 #EXTINF:-1 tvg-name="CETV1" tvg-logo="https://gitee.com/jensen6/logo/raw/main/CETV1.png" epg-url="http://epg.51zmt.top:8000/e.xml.gz,https://live.kilvn.com/epg.xml.gz,https://e.erw.cc/all.xml.gz",CETV1
 http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225753/index.m3u8
@@ -689,7 +689,7 @@ http://111.20.105.60:6060/yinhe/2/ch00000090990000002505/index.m3u8?virtualDomai
 http://111.20.105.60:6060/yinhe/2/ch00000090990000002515/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
 #EXTINF:-1 tvg-name="风云音乐" tvg-logo="https://gitee.com/jensen6/logo/raw/main/风云音乐.png" epg-url="http://epg.51zmt.top:8000/e.xml.gz,https://live.kilvn.com/epg.xml.gz,https://e.erw.cc/all.xml.gz",风云音乐
 http://111.20.105.60:6060/yinhe/2/ch00000090990000002525/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
-#EXTINF:-1 tvg-name="央视文化" tvg-logo="https://gitee.com/jensen6/logo/raw/main/CCTV央视文化.png" epg-url="http://epg.51zmt.top:8000/e.xml.gz,https://live.kilvn.com/epg.xml.gz,https://e.erw.cc/all.xml.gz",央视文化
+#EXTINF:-1 tvg-name="文化精品" tvg-logo="https://gitee.com/jensen6/logo/raw/main/CCTV文化精品.png" epg-url="http://epg.51zmt.top:8000/e.xml.gz,https://live.kilvn.com/epg.xml.gz,https://e.erw.cc/all.xml.gz",文化精品
 http://111.20.105.60:6060/yinhe/2/ch00000090990000002535/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
 #EXTINF:-1 tvg-name="电视指南" tvg-logo="https://gitee.com/jensen6/logo/raw/main/CCTV电视指南.png" epg-url="http://epg.51zmt.top:8000/e.xml.gz,https://live.kilvn.com/epg.xml.gz,https://e.erw.cc/all.xml.gz",电视指南
 http://111.20.105.60:6060/yinhe/2/ch00000090990000002545/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
