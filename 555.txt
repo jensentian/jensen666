@@ -150,7 +150,7 @@ CHC动作电影,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226465/in
 求索科学,http://39.134.65.106/PLTV/88888888/224/3221225728/1.m3u8
 求索动物,http://39.134.65.106/PLTV/88888888/224/3221225730/1.m3u8
 生态环境,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226243/index.m3u8
-央视文化,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226981/index.m3u8
+文化精品,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226981/index.m3u8
 发现之旅,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226235/index.m3u8
 老故事,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226236/index.m3u8
 老故事,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221227118/index.m3u8
@@ -165,7 +165,7 @@ CHC动作电影,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226465/in
 优漫卡通,http://39.134.67.148:80/ottrrs.hl.chinamobile.com/hlj/yd/0/3221225656/.m3u8
 卡酷少儿,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225743/index.m3u8
 嘉佳卡通,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226227/index.m3u8
-CCTV-4K,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221227140/index.m3u8
+CCTV4K,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221227140/index.m3u8
 CETV1,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225753/index.m3u8
 CETV2,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225756/index.m3u8
 CETV3,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226226/index.m3u8
@@ -349,7 +349,7 @@ CHC家庭影院,http://111.20.105.60:6060/yinhe/2/ch00000090990000002085/index.m
 风云剧场,http://111.20.105.60:6060/yinhe/2/ch00000090990000002505/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
 兵器科技,http://111.20.105.60:6060/yinhe/2/ch00000090990000002515/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
 风云音乐,http://111.20.105.60:6060/yinhe/2/ch00000090990000002525/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
-央视文化,http://111.20.105.60:6060/yinhe/2/ch00000090990000002535/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
+文化精品,http://111.20.105.60:6060/yinhe/2/ch00000090990000002535/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
 电视指南,http://111.20.105.60:6060/yinhe/2/ch00000090990000002545/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
 发现之旅,http://111.20.105.60:6060/yinhe/2/ch00000090990000001314/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
 老故事,http://111.20.105.60:6060/yinhe/2/ch00000090990000001315/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
