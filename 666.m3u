@@ -357,8 +357,6 @@ http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221227125/index.m3u8
 http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226358/index.m3u8
 #EXTINF:-1 tvg-name="陕西都市青春" tvg-logo="https://gitee.com/jensen6/logo/raw/master/陕西都市青春.png" epg-url="http://epg.51zmt.top:8000/e.xml.gz,https://live.kilvn.com/epg.xml.gz",陕西都市青春
 http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221227102/index.m3u8
-#EXTINF:-1 tvg-name="渭南新闻综合" tvg-logo="https://gitee.com/jensen6/logo/raw/master/渭南新闻综合.png" epg-url="http://epg.51zmt.top:8000/e.xml.gz,https://live.kilvn.com/epg.xml.gz",渭南新闻综合
-http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226376/index.m3u8
 #EXTINF:-1 tvg-name="陕西体育休闲" tvg-logo="https://gitee.com/jensen6/logo/raw/master/陕西体育休闲.png" epg-url="http://epg.51zmt.top:8000/e.xml.gz,https://live.kilvn.com/epg.xml.gz",陕西体育休闲
 http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226363/index.m3u8
 #EXTINF:-1 tvg-name="陕西体育休闲" tvg-logo="https://gitee.com/jensen6/logo/raw/master/陕西体育休闲.png" epg-url="http://epg.51zmt.top:8000/e.xml.gz,https://live.kilvn.com/epg.xml.gz",陕西体育休闲
@@ -373,6 +371,8 @@ http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226370/index.m3u8
 http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226371/index.m3u8
 #EXTINF:-1 tvg-name="西安都市频道" tvg-logo="https://gitee.com/jensen6/logo/raw/master/西安都市频道.png" epg-url="http://epg.51zmt.top:8000/e.xml.gz,https://live.kilvn.com/epg.xml.gz",西安都市频道
 http://111.20.105.60:6060/yinhe/2/ch00000090990000001595/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
+#EXTINF:-1 tvg-name="渭南新闻综合" tvg-logo="https://gitee.com/jensen6/logo/raw/master/渭南新闻综合.png" epg-url="http://epg.51zmt.top:8000/e.xml.gz,https://live.kilvn.com/epg.xml.gz",渭南新闻综合
+http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226376/index.m3u8
 #EXTINF:-1 tvg-name="咸阳综合" tvg-logo="https://gitee.com/jensen6/logo/raw/master/咸阳综合.png" epg-url="http://epg.51zmt.top:8000/e.xml.gz,https://live.kilvn.com/epg.xml.gz",咸阳综合
 http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226372/index.m3u8
 #EXTINF:-1 tvg-name="延安综合" tvg-logo="https://gitee.com/jensen6/logo/raw/master/延安综合.png" epg-url="http://epg.51zmt.top:8000/e.xml.gz,https://live.kilvn.com/epg.xml.gz",延安综合
