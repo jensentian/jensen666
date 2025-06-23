@@ -82,6 +82,8 @@ http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225784/index.m3u8
 #EXTINF:-1 tvg-name="CCTV15" tvg-logo="https://gitee.com/jensen6/logo/raw/main/CCTV-15.png" epg-url="http://epg.51zmt.top:8000/e.xml.gz,https://live.kilvn.com/epg.xml.gz,https://e.erw.cc/all.xml.gz",CCTV-15
 http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225785/index.m3u8
 #EXTINF:-1 tvg-name="CCTV16" tvg-logo="https://gitee.com/jensen6/logo/raw/main/CCTV-16.png" epg-url="http://epg.51zmt.top:8000/e.xml.gz,https://live.kilvn.com/epg.xml.gz,https://e.erw.cc/all.xml.gz",CCTV-16
+http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226921/index.m3u8
+#EXTINF:-1 tvg-name="CCTV16" tvg-logo="https://gitee.com/jensen6/logo/raw/main/CCTV-16.png" epg-url="http://epg.51zmt.top:8000/e.xml.gz,https://live.kilvn.com/epg.xml.gz,https://e.erw.cc/all.xml.gz",CCTV-16
 http://39.134.24.161/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226921/index.m3u8
 #EXTINF:-1 tvg-name="CCTV16" tvg-logo="https://gitee.com/jensen6/logo/raw/main/CCTV-16.png" epg-url="http://epg.51zmt.top:8000/e.xml.gz,https://live.kilvn.com/epg.xml.gz,https://e.erw.cc/all.xml.gz",CCTV-16
 http://39.134.65.106/PLTV/88888888/224/3221225893/1.m3u8
@@ -257,7 +259,7 @@ http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225798/index.m3u8
 http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226199/index.m3u8
 #EXTINF:-1 tvg-name="浙江卫视" tvg-logo="https://gitee.com/jensen6/logo/raw/main/浙江卫视.png" epg-url="http://epg.51zmt.top:8000/e.xml.gz,https://live.kilvn.com/epg.xml.gz,https://e.erw.cc/all.xml.gz",浙江卫视
 http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225788/index.m3u8
-#EXTINF:-1 tvg-name="中国气象" tvg-logo="https://gitee.com/jensen6/logo/raw/main/中国气象.png" epg-url="http://epg.51zmt.top:8000/e.xml.gz,https://live.kilvn.com/epg.xml.gz,https://e.erw.cc/all.xml.gz",中国气象
+#EXTINF:-1 tvg-name="凤凰卫视资讯台" tvg-logo="https://gitee.com/jensen6/logo/raw/main/凤凰卫视资讯台.png" epg-url="http://epg.51zmt.top:8000/e.xml.gz,https://live.kilvn.com/epg.xml.gz,https://e.erw.cc/all.xml.gz",凤凰卫视资讯台
 http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226546/index.m3u8
 #EXTINF:-1 tvg-name="凤凰卫视" tvg-logo="https://gitee.com/jensen6/logo/raw/main/凤凰卫视.png" epg-url="http://epg.51zmt.top:8000/e.xml.gz,https://live.kilvn.com/epg.xml.gz,https://e.erw.cc/all.xml.gz",凤凰卫视
 http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226547/index.m3u8
@@ -501,7 +503,7 @@ http://111.20.105.60:6060/yinhe/2/ch00000090990000001064/index.m3u8?virtualDomai
 http://111.20.105.60:6060/yinhe/2/ch00000090990000001309/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
 #EXTINF:-1 tvg-name="CETV4" tvg-logo="https://gitee.com/jensen6/logo/raw/main/CETV4.png" epg-url="http://epg.51zmt.top:8000/e.xml.gz,https://live.kilvn.com/epg.xml.gz,https://e.erw.cc/all.xml.gz",CETV4
 http://111.20.105.60:6060/yinhe/2/ch00000090990000001308/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
-#EXTINF:-1 tvg-name="中国气象" tvg-logo="https://gitee.com/jensen6/logo/raw/main/中国气象.png" epg-url="http://epg.51zmt.top:8000/e.xml.gz,https://live.kilvn.com/epg.xml.gz,https://e.erw.cc/all.xml.gz",中国气象
+#EXTINF:-1 tvg-name="凤凰卫视资讯台" tvg-logo="https://gitee.com/jensen6/logo/raw/main/凤凰卫视资讯台.png" epg-url="http://epg.51zmt.top:8000/e.xml.gz,https://live.kilvn.com/epg.xml.gz,https://e.erw.cc/all.xml.gz",凤凰卫视资讯台
 http://111.20.105.60:6060/yinhe/2/ch00000090990000002187/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
 #EXTINF:-1 tvg-name="韩城综合" tvg-logo="https://gitee.com/jensen6/logo/raw/main/韩城综合.png" epg-url="http://epg.51zmt.top:8000/e.xml.gz,https://live.kilvn.com/epg.xml.gz,https://e.erw.cc/all.xml.gz",韩城综合
 http://111.20.105.60:6060/yinhe/2/ch00000090990000002884/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
