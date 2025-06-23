@@ -1,4 +1,4 @@
-#EXTM3U x-tvg-url="http://epg.51zmt.top:8000/e.xml.gz,https://live.kilvn.com/epg.xml.gz" catchup="append" catchup-source="?playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}"
+#EXTM3U x-tvg-url="http://epg.51zmt.top:8000/e.xml.gz,https://live.kilvn.com/epg.xml.gz"
 #EXTINF:-1 tvg-name="CCTV1" tvg-logo="https://gitee.com/jensen6/logo/raw/master/CCTV1.png" epg-url="http://epg.51zmt.top:8000/e.xml.gz,https://live.kilvn.com/epg.xml.gz",CCTV-1
 http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225804/index.m3u8
 #EXTINF:-1 tvg-name="CCTV1" tvg-logo="https://gitee.com/jensen6/logo/raw/master/CCTV1.png" epg-url="http://epg.51zmt.top:8000/e.xml.gz,https://live.kilvn.com/epg.xml.gz",CCTV-1
@@ -7,8 +7,6 @@ http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226231/index.m3u8
 http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225783/index.m3u8
 #EXTINF:-1 tvg-name="CCTV1" tvg-logo="https://gitee.com/jensen6/logo/raw/master/CCTV1.png" epg-url="http://epg.51zmt.top:8000/e.xml.gz,https://live.kilvn.com/epg.xml.gz",CCTV-1
 http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226239/index.m3u8
-#EXTINF:-1 tvg-name="CCTV1" tvg-logo="https://gitee.com/jensen6/logo/raw/master/CCTV1.png" epg-url="http://epg.51zmt.top:8000/e.xml.gz,https://live.kilvn.com/epg.xml.gz",CCTV-1
-http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226977/index.m3u8
 #EXTINF:-1 tvg-name="CCTV1" tvg-logo="https://gitee.com/jensen6/logo/raw/master/CCTV1.png" epg-url="http://epg.51zmt.top:8000/e.xml.gz,https://live.kilvn.com/epg.xml.gz",CCTV-1
 http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221227088/index.m3u8
 #EXTINF:-1 tvg-name="CCTV2" tvg-logo="https://gitee.com/jensen6/logo/raw/master/CCTV2.png" epg-url="http://epg.51zmt.top:8000/e.xml.gz,https://live.kilvn.com/epg.xml.gz",CCTV-2
@@ -85,10 +83,6 @@ http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225784/index.m3u8
 http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225785/index.m3u8
 #EXTINF:-1 tvg-name="CCTV16" tvg-logo="https://gitee.com/jensen6/logo/raw/master/CCTV16.png" epg-url="http://epg.51zmt.top:8000/e.xml.gz,https://live.kilvn.com/epg.xml.gz",CCTV-16
 http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226921/index.m3u8
-#EXTINF:-1 tvg-name="CCTV17" tvg-logo="https://gitee.com/jensen6/logo/raw/master/CCTV17.png" epg-url="http://epg.51zmt.top:8000/e.xml.gz,https://live.kilvn.com/epg.xml.gz",CCTV-17
-http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226198/index.m3u8
-#EXTINF:-1 tvg-name="CCTV17" tvg-logo="https://gitee.com/jensen6/logo/raw/master/CCTV17.png" epg-url="http://epg.51zmt.top:8000/e.xml.gz,https://live.kilvn.com/epg.xml.gz",CCTV-17
-http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226208/index.m3u8
 #EXTINF:-1 tvg-name="CCTV17" tvg-logo="https://gitee.com/jensen6/logo/raw/master/CCTV17.png" epg-url="http://epg.51zmt.top:8000/e.xml.gz,https://live.kilvn.com/epg.xml.gz",CCTV-17
 http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226198/index.m3u8
 #EXTINF:-1 tvg-name="CCTV17" tvg-logo="https://gitee.com/jensen6/logo/raw/master/CCTV17.png" epg-url="http://epg.51zmt.top:8000/e.xml.gz,https://live.kilvn.com/epg.xml.gz",CCTV-17
@@ -399,6 +393,26 @@ http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226331/index.m3u8
 http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225990/index.m3u8
 #EXTINF:-1 tvg-name="汉中教育" tvg-logo="https://gitee.com/jensen6/logo/raw/master/汉中教育.png" epg-url="http://epg.51zmt.top:8000/e.xml.gz,https://live.kilvn.com/epg.xml.gz",汉中教育
 http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225991/index.m3u8
+#EXTINF:-1 tvg-name="CGTV法语" tvg-logo="https://gitee.com/jensen6/logo/raw/master/CGTV法语.png" epg-url="http://epg.51zmt.top:8000/e.xml.gz,https://live.kilvn.com/epg.xml.gz",CGTV法语
+http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221227058/index.m3u8
+#EXTINF:-1 tvg-name="CGTN俄语" tvg-logo="https://gitee.com/jensen6/logo/raw/master/CGTN俄语.png" epg-url="http://epg.51zmt.top:8000/e.xml.gz,https://live.kilvn.com/epg.xml.gz",CGTN俄语
+http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221227078/index.m3u8
+#EXTINF:-1 tvg-name="CGTN英语" tvg-logo="https://gitee.com/jensen6/logo/raw/master/CGTN英语.png" epg-url="http://epg.51zmt.top:8000/e.xml.gz,https://live.kilvn.com/epg.xml.gz",CGTN英语
+http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221227084/index.m3u8
+#EXTINF:-1 tvg-name="CGTN阿拉伯语" tvg-logo="https://gitee.com/jensen6/logo/raw/master/CGTN阿拉伯语.png" epg-url="http://epg.51zmt.top:8000/e.xml.gz,https://live.kilvn.com/epg.xml.gz",CGTN阿拉伯语
+http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221227095/index.m3u8
+#EXTINF:-1 tvg-name="CGTN西班牙语" tvg-logo="https://gitee.com/jensen6/logo/raw/master/CGTN西班牙语.png" epg-url="http://epg.51zmt.top:8000/e.xml.gz,https://live.kilvn.com/epg.xml.gz",CGTN西班牙语
+http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221227098/index.m3u8
+#EXTINF:-1 tvg-name="书画频道" tvg-logo="https://gitee.com/jensen6/logo/raw/master/书画频道.png" epg-url="http://epg.51zmt.top:8000/e.xml.gz,https://live.kilvn.com/epg.xml.gz",书画频道
+http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221227129/index.m3u8
+#EXTINF:-1 tvg-name="中学生" tvg-logo="https://gitee.com/jensen6/logo/raw/master/中学生.png" epg-url="http://epg.51zmt.top:8000/e.xml.gz,https://live.kilvn.com/epg.xml.gz",中学生
+http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221227132/index.m3u8
+#EXTINF:-1 tvg-name="CETV早期教育" tvg-logo="https://gitee.com/jensen6/logo/raw/master/CETV早期教育.png" epg-url="http://epg.51zmt.top:8000/e.xml.gz,https://live.kilvn.com/epg.xml.gz",CETV早期教育
+http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221227143/index.m3u8
+#EXTINF:-1 tvg-name="卫生健康" tvg-logo="https://gitee.com/jensen6/logo/raw/master/卫生健康.png" epg-url="http://epg.51zmt.top:8000/e.xml.gz,https://live.kilvn.com/epg.xml.gz",卫生健康
+http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221227146/index.m3u8
+#EXTINF:-1 tvg-name="BesTV" tvg-logo="https://gitee.com/jensen6/logo/raw/master/BesTV.png" epg-url="http://epg.51zmt.top:8000/e.xml.gz,https://live.kilvn.com/epg.xml.gz",BesTV
+http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221227079/index.m3u8
 #EXTINF:-1 tvg-name="CCTV1" tvg-logo="https://gitee.com/jensen6/logo/raw/master/CCTV1.png" epg-url="http://epg.51zmt.top:8000/e.xml.gz,https://live.kilvn.com/epg.xml.gz",CCTV-1
 http://111.20.105.60:6060/yinhe/2/ch00000090990000001331/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
 #EXTINF:-1 tvg-name="CCTV1" tvg-logo="https://gitee.com/jensen6/logo/raw/master/CCTV1.png" epg-url="http://epg.51zmt.top:8000/e.xml.gz,https://live.kilvn.com/epg.xml.gz",CCTV-1
@@ -407,8 +421,6 @@ http://111.20.105.60:6060/yinhe/2/ch00000090990000001068/index.m3u8?virtualDomai
 http://111.20.105.60:6060/yinhe/2/ch00000090990000001018/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
 #EXTINF:-1 tvg-name="CCTV1" tvg-logo="https://gitee.com/jensen6/logo/raw/master/CCTV1.png" epg-url="http://epg.51zmt.top:8000/e.xml.gz,https://live.kilvn.com/epg.xml.gz",CCTV-1
 http://111.20.105.60:6060/yinhe/2/ch00000090990000001326/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
-#EXTINF:-1 tvg-name="CCTV1" tvg-logo="https://gitee.com/jensen6/logo/raw/master/CCTV1.png" epg-url="http://epg.51zmt.top:8000/e.xml.gz,https://live.kilvn.com/epg.xml.gz",CCTV-1
-http://111.20.105.60:6060/yinhe/2/ch00000090990000002635/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
 #EXTINF:-1 tvg-name="CCTV2" tvg-logo="https://gitee.com/jensen6/logo/raw/master/CCTV2.png" epg-url="http://epg.51zmt.top:8000/e.xml.gz,https://live.kilvn.com/epg.xml.gz",CCTV-2
 http://111.20.105.60:6060/yinhe/2/ch00000090990000001332/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
 #EXTINF:-1 tvg-name="CCTV2" tvg-logo="https://gitee.com/jensen6/logo/raw/master/CCTV2.png" epg-url="http://epg.51zmt.top:8000/e.xml.gz,https://live.kilvn.com/epg.xml.gz",CCTV-2
@@ -817,8 +829,6 @@ http://39.134.65.106/PLTV/88888888/224/3221225674/1.m3u8
 http://39.134.65.87/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225601/index.m3u8
 #EXTINF:-1 tvg-name="CCTV15" tvg-logo="https://gitee.com/jensen6/logo/raw/master/CCTV15.png" epg-url="http://epg.51zmt.top:8000/e.xml.gz,https://live.kilvn.com/epg.xml.gz",CCTV-15
 http://39.134.65.106/PLTV/88888888/224/3221226127/1.m3u8
-#EXTINF:-1 tvg-name="CCTV16" tvg-logo="https://gitee.com/jensen6/logo/raw/master/CCTV16.png" epg-url="http://epg.51zmt.top:8000/e.xml.gz,https://live.kilvn.com/epg.xml.gz",CCTV-16
-http://39.134.24.161/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226921/index.m3u8
 #EXTINF:-1 tvg-name="CCTV16" tvg-logo="https://gitee.com/jensen6/logo/raw/master/CCTV16.png" epg-url="http://epg.51zmt.top:8000/e.xml.gz,https://live.kilvn.com/epg.xml.gz",CCTV-16
 http://39.134.65.106/PLTV/88888888/224/3221225893/1.m3u8
 #EXTINF:-1 tvg-name="CCTV16" tvg-logo="https://gitee.com/jensen6/logo/raw/master/CCTV16.png" epg-url="http://epg.51zmt.top:8000/e.xml.gz,https://live.kilvn.com/epg.xml.gz",CCTV-16
