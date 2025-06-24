@@ -341,9 +341,9 @@ http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221227099/index.m3u8
 http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226364/index.m3u8
 #EXTINF:-1 tvg-name="陕西西部电影" tvg-logo="https://gitee.com/jensen6/logo/raw/master/陕西西部电影.png" epg-url="http://epg.51zmt.top:8000/e.xml.gz,https://live.kilvn.com/epg.xml.gz",陕西西部电影
 http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221227091/index.m3u8
-#EXTINF:-1 tvg-name="陕西生活" tvg-logo="https://gitee.com/jensen6/logo/raw/master/陕西生活.png" epg-url="http://epg.51zmt.top:8000/e.xml.gz,https://live.kilvn.com/epg.xml.gz",陕西生活
+#EXTINF:-1 tvg-name="陕西银龄" tvg-logo="https://gitee.com/jensen6/logo/raw/master/陕西银龄.png" epg-url="http://epg.51zmt.top:8000/e.xml.gz,https://live.kilvn.com/epg.xml.gz",陕西银龄
 http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226359/index.m3u8
-#EXTINF:-1 tvg-name="陕西公共" tvg-logo="https://gitee.com/jensen6/logo/raw/master/陕西公共.png" epg-url="http://epg.51zmt.top:8000/e.xml.gz,https://live.kilvn.com/epg.xml.gz",陕西公共
+#EXTINF:-1 tvg-name="陕西秦腔" tvg-logo="https://gitee.com/jensen6/logo/raw/master/陕西秦腔.png" epg-url="http://epg.51zmt.top:8000/e.xml.gz,https://live.kilvn.com/epg.xml.gz",陕西秦腔
 http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226361/index.m3u8
 #EXTINF:-1 tvg-name="陕西秦腔" tvg-logo="https://gitee.com/jensen6/logo/raw/master/陕西秦腔.png" epg-url="http://epg.51zmt.top:8000/e.xml.gz,https://live.kilvn.com/epg.xml.gz",陕西秦腔
 http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221227125/index.m3u8
@@ -393,7 +393,7 @@ http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226331/index.m3u8
 http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225990/index.m3u8
 #EXTINF:-1 tvg-name="汉中教育" tvg-logo="https://gitee.com/jensen6/logo/raw/master/汉中教育.png" epg-url="http://epg.51zmt.top:8000/e.xml.gz,https://live.kilvn.com/epg.xml.gz",汉中教育
 http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225991/index.m3u8
-#EXTINF:-1 tvg-name="CGTN法语" tvg-logo="https://gitee.com/jensen6/logo/raw/master/CGTN法语.png" epg-url="http://epg.51zmt.top:8000/e.xml.gz,https://live.kilvn.com/epg.xml.gz",CGTN法语
+#EXTINF:-1 tvg-name="CGTV法语" tvg-logo="https://gitee.com/jensen6/logo/raw/master/CGTV法语.png" epg-url="http://epg.51zmt.top:8000/e.xml.gz,https://live.kilvn.com/epg.xml.gz",CGTV法语
 http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221227058/index.m3u8
 #EXTINF:-1 tvg-name="CGTN俄语" tvg-logo="https://gitee.com/jensen6/logo/raw/master/CGTN俄语.png" epg-url="http://epg.51zmt.top:8000/e.xml.gz,https://live.kilvn.com/epg.xml.gz",CGTN俄语
 http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221227078/index.m3u8
@@ -733,9 +733,9 @@ http://111.20.105.60:6060/yinhe/2/ch00000090990000001580/index.m3u8?virtualDomai
 http://111.20.105.60:6060/yinhe/2/ch00000090990000001719/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
 #EXTINF:-1 tvg-name="陕西西部电影" tvg-logo="https://gitee.com/jensen6/logo/raw/master/陕西西部电影.png" epg-url="http://epg.51zmt.top:8000/e.xml.gz,https://live.kilvn.com/epg.xml.gz",陕西西部电影
 http://111.20.105.60:6060/yinhe/2/ch00000090990000001749/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
-#EXTINF:-1 tvg-name="陕西生活" tvg-logo="https://gitee.com/jensen6/logo/raw/master/陕西生活.png" epg-url="http://epg.51zmt.top:8000/e.xml.gz,https://live.kilvn.com/epg.xml.gz",陕西生活
+#EXTINF:-1 tvg-name="陕西银龄" tvg-logo="https://gitee.com/jensen6/logo/raw/master/陕西银龄.png" epg-url="http://epg.51zmt.top:8000/e.xml.gz,https://live.kilvn.com/epg.xml.gz",陕西银龄
 http://111.20.105.60:6060/yinhe/2/ch00000090990000001729/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
-#EXTINF:-1 tvg-name="陕西公共" tvg-logo="https://gitee.com/jensen6/logo/raw/master/陕西公共.png" epg-url="http://epg.51zmt.top:8000/e.xml.gz,https://live.kilvn.com/epg.xml.gz",陕西公共
+#EXTINF:-1 tvg-name="陕西秦腔" tvg-logo="https://gitee.com/jensen6/logo/raw/master/陕西秦腔.png" epg-url="http://epg.51zmt.top:8000/e.xml.gz,https://live.kilvn.com/epg.xml.gz",陕西秦腔
 http://111.20.105.60:6060/yinhe/2/ch00000090990000001739/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
 #EXTINF:-1 tvg-name="陕西都市青春" tvg-logo="https://gitee.com/jensen6/logo/raw/master/陕西都市青春.png" epg-url="http://epg.51zmt.top:8000/e.xml.gz,https://live.kilvn.com/epg.xml.gz",陕西都市青春
 http://111.20.105.60:6060/yinhe/2/ch00000090990000001593/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
@@ -763,8 +763,6 @@ http://111.20.105.60:6060/yinhe/2/ch00000090990000001497/index.m3u8?virtualDomai
 http://111.20.105.60:6060/yinhe/2/ch00000090990000001262/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
 #EXTINF:-1 tvg-name="汉中教育" tvg-logo="https://gitee.com/jensen6/logo/raw/master/汉中教育.png" epg-url="http://epg.51zmt.top:8000/e.xml.gz,https://live.kilvn.com/epg.xml.gz",汉中教育
 http://111.20.105.60:6060/yinhe/2/ch00000090990000001263/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
-#EXTINF:-1 tvg-name="CCTV1" tvg-logo="https://gitee.com/jensen6/logo/raw/master/CCTV1.png" epg-url="http://epg.51zmt.top:8000/e.xml.gz,https://live.kilvn.com/epg.xml.gz",CCTV-1
-http://39.134.65.106/PLTV/88888888/224/3221225816/index.m3u8
 #EXTINF:-1 tvg-name="CCTV2" tvg-logo="https://gitee.com/jensen6/logo/raw/master/CCTV2.png" epg-url="http://epg.51zmt.top:8000/e.xml.gz,https://live.kilvn.com/epg.xml.gz",CCTV-2
 http://39.135.133.177/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225588/index.m3u8
 #EXTINF:-1 tvg-name="CCTV2" tvg-logo="https://gitee.com/jensen6/logo/raw/master/CCTV2.png" epg-url="http://epg.51zmt.top:8000/e.xml.gz,https://live.kilvn.com/epg.xml.gz",CCTV-2
