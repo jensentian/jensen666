@@ -30,8 +30,8 @@ CCTV-9,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226197/index.m3u8
 CCTV-9,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225758/index.m3u8
 CCTV-10,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226189/index.m3u8
 CCTV-10,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225777/index.m3u8
-CCTV-11,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225776/index.m3u8
 CCTV-11,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226240/index.m3u8
+CCTV-11,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225776/index.m3u8
 CCTV-12,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226190/index.m3u8
 CCTV-12,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225775/index.m3u8
 CCTV-13,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225774/index.m3u8
@@ -169,8 +169,8 @@ CGTN,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225745/index.m3u8
 陕西新闻资讯,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221227099/index.m3u8
 陕西西部电影,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226364/index.m3u8
 陕西西部电影,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221227091/index.m3u8
-陕西生活,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226359/index.m3u8
-陕西公共,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226361/index.m3u8
+陕西银龄,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226359/index.m3u8
+陕西秦腔,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226361/index.m3u8
 陕西秦腔,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221227125/index.m3u8
 陕西都市青春,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226358/index.m3u8
 陕西都市青春,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221227102/index.m3u8
@@ -196,7 +196,7 @@ CGTN,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225745/index.m3u8
 汉中综合,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226331/index.m3u8
 汉中公共,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225990/index.m3u8
 汉中教育,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225991/index.m3u8
-CGTN法语,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221227058/index.m3u8
+CGTV法语,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221227058/index.m3u8
 CGTN俄语,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221227078/index.m3u8
 CGTN英语,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221227084/index.m3u8
 CGTN阿拉伯语,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221227095/index.m3u8
@@ -368,8 +368,8 @@ CGTN,http://111.20.105.60:6060/yinhe/2/ch00000090990000001024/index.m3u8?virtual
 陕西新闻资讯,http://111.20.105.60:6060/yinhe/2/ch00000090990000001580/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
 陕西新闻资讯,http://111.20.105.60:6060/yinhe/2/ch00000090990000001719/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
 陕西西部电影,http://111.20.105.60:6060/yinhe/2/ch00000090990000001749/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
-陕西生活,http://111.20.105.60:6060/yinhe/2/ch00000090990000001729/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
-陕西公共,http://111.20.105.60:6060/yinhe/2/ch00000090990000001739/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
+陕西银龄,http://111.20.105.60:6060/yinhe/2/ch00000090990000001729/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
+陕西秦腔,http://111.20.105.60:6060/yinhe/2/ch00000090990000001739/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
 陕西都市青春,http://111.20.105.60:6060/yinhe/2/ch00000090990000001593/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
 渭南新闻综合,http://111.20.105.60:6060/yinhe/2/ch00000090990000001585/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
 陕西体育休闲,http://111.20.105.60:6060/yinhe/2/ch00000090990000001594/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
@@ -384,7 +384,6 @@ CGTN,http://111.20.105.60:6060/yinhe/2/ch00000090990000001024/index.m3u8?virtual
 汉中公共,http://111.20.105.60:6060/yinhe/2/ch00000090990000001262/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
 汉中教育,http://111.20.105.60:6060/yinhe/2/ch00000090990000001263/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
 
-CCTV-1,http://39.134.65.106/PLTV/88888888/224/3221225816/index.m3u8
 CCTV-2,http://39.135.133.177/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225588/index.m3u8
 CCTV-2,http://39.134.65.106/PLTV/88888888/224/3221226079/1.m3u8
 CCTV-3,http://39.134.65.106/PLTV/88888888/224/3221225799/1.m3u8
