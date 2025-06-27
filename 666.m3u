@@ -100,7 +100,7 @@ http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226462/index.m3u8
 #EXTINF:-1 tvg-name="CHC动作电影" tvg-logo="https://gitee.com/jensen6/logo/raw/master/CHC动作电影.png" epg-url="http://epg.51zmt.top:8000/e.xml.gz,https://live.kilvn.com/epg.xml.gz",CHC动作电影
 http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226465/index.m3u8
 #EXTINF:-1 tvg-name="黑莓电影" tvg-logo="https://gitee.com/jensen6/logo/raw/master/黑莓电影.png" epg-url="http://epg.51zmt.top:8000/e.xml.gz,https://live.kilvn.com/epg.xml.gz",黑莓电影
-http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225743/index.m3u8
+http://39.134.65.106/PLTV/88888888/224/3221225681/1.m3u8
 #EXTINF:-1 tvg-name="广东卫视" tvg-logo="https://gitee.com/jensen6/logo/raw/master/广东卫视.png" epg-url="http://epg.51zmt.top:8000/e.xml.gz,https://live.kilvn.com/epg.xml.gz",广东卫视
 http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225803/index.m3u8
 #EXTINF:-1 tvg-name="广东卫视" tvg-logo="https://gitee.com/jensen6/logo/raw/master/广东卫视.png" epg-url="http://epg.51zmt.top:8000/e.xml.gz,https://live.kilvn.com/epg.xml.gz",广东卫视
@@ -849,8 +849,6 @@ http://39.134.65.106/PLTV/88888888/224/3221225677/1.m3u8
 http://39.134.65.106/PLTV/88888888/224/3221225678/1.m3u8
 #EXTINF:-1 tvg-name="东北热剧" tvg-logo="https://gitee.com/jensen6/logo/raw/master/东北热剧.png" epg-url="http://epg.51zmt.top:8000/e.xml.gz,https://live.kilvn.com/epg.xml.gz",东北热剧
 http://39.134.65.106/PLTV/88888888/224/3221225679/1.m3u8
-#EXTINF:-1 tvg-name="黑莓电影" tvg-logo="https://gitee.com/jensen6/logo/raw/master/黑莓电影.png" epg-url="http://epg.51zmt.top:8000/e.xml.gz,https://live.kilvn.com/epg.xml.gz",黑莓电影
-http://39.134.65.106/PLTV/88888888/224/3221225681/1.m3u8
 #EXTINF:-1 tvg-name="欢乐剧场" tvg-logo="https://gitee.com/jensen6/logo/raw/master/欢乐剧场.png" epg-url="http://epg.51zmt.top:8000/e.xml.gz,https://live.kilvn.com/epg.xml.gz",欢乐剧场
 http://39.134.65.106/PLTV/88888888/224/3221225682/1.m3u8
 #EXTINF:-1 tvg-name="CCTV17" tvg-logo="https://gitee.com/jensen6/logo/raw/master/CCTV17.png" epg-url="http://epg.51zmt.top:8000/e.xml.gz,https://live.kilvn.com/epg.xml.gz",CCTV-17
@@ -1731,5 +1729,3 @@ http://39.134.65.8/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225685/index.
 http://39.134.65.62/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225685/index.m3u8
 #EXTINF:-1 tvg-name="潮妈辣婆" tvg-logo="https://gitee.com/jensen6/logo/raw/master/潮妈辣婆.png" epg-url="http://epg.51zmt.top:8000/e.xml.gz,https://live.kilvn.com/epg.xml.gz",潮妈辣婆
 http://39.134.65.64/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225685/index.m3u8
-#EXTINF:-1 tvg-name="潮妈辣婆" tvg-logo="https://gitee.com/jensen6/logo/raw/master/潮妈辣婆.png" epg-url="http://epg.51zmt.top:8000/e.xml.gz,https://live.kilvn.com/epg.xml.gz",潮妈辣婆
-http://39.134.65.65/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225685/index.m3u8
