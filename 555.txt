@@ -48,7 +48,7 @@ CCTV-17,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226208/index.m3u8
 CHC影迷电影,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226463/index.m3u8
 CHC家庭影院,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226462/index.m3u8
 CHC动作电影,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226465/index.m3u8
-黑莓电影,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225743/index.m3u8
+黑莓电影,http://39.134.65.106/PLTV/88888888/224/3221225681/1.m3u8
 广东卫视,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225803/index.m3u8
 广东卫视,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226216/index.m3u8
 广东卫视,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225757/index.m3u8
@@ -425,7 +425,6 @@ CCTV-9,http://39.134.65.106/PLTV/88888888/224/3221225676/1.m3u8
 CCTV-10,http://39.134.65.106/PLTV/88888888/224/3221225677/1.m3u8
 北京卫视,http://39.134.65.106/PLTV/88888888/224/3221225678/1.m3u8
 东北热剧,http://39.134.65.106/PLTV/88888888/224/3221225679/1.m3u8
-黑莓电影,http://39.134.65.106/PLTV/88888888/224/3221225681/1.m3u8
 欢乐剧场,http://39.134.65.106/PLTV/88888888/224/3221225682/1.m3u8
 CCTV-17,http://39.134.65.106/PLTV/88888888/224/3221225708/1.m3u8
 求索纪录,http://39.134.65.106/PLTV/88888888/224/3221225713/1.m3u8
