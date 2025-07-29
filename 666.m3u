@@ -6,8 +6,6 @@ http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225783/index.m3u8
 #EXTINF:-1 tvg-name="CCTV1" tvg-logo="https://gitee.com/jensen6/logo/raw/master/CCTV1.png" epg-url="http://epg.51zmt.top:8000/e.xml.gz,https://live.kilvn.com/epg.xml.gz",CCTV-1
 http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221227088/index.m3u8
 #EXTINF:-1 tvg-name="CCTV2" tvg-logo="https://gitee.com/jensen6/logo/raw/master/CCTV2.png" epg-url="http://epg.51zmt.top:8000/e.xml.gz,https://live.kilvn.com/epg.xml.gz",CCTV-2
-http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226195/index.m3u8
-#EXTINF:-1 tvg-name="CCTV2" tvg-logo="https://gitee.com/jensen6/logo/raw/master/CCTV2.png" epg-url="http://epg.51zmt.top:8000/e.xml.gz,https://live.kilvn.com/epg.xml.gz",CCTV-2
 http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225762/index.m3u8
 #EXTINF:-1 tvg-name="CCTV3" tvg-logo="https://gitee.com/jensen6/logo/raw/master/CCTV3.png" epg-url="http://epg.51zmt.top:8000/e.xml.gz,https://live.kilvn.com/epg.xml.gz",CCTV-3
 http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226397/index.m3u8
@@ -329,8 +327,6 @@ http://zteres.sn.chinamobile.com:6060/yinhe/2/ch00000090990000001018/index.m3u8?
 http://zteres.sn.chinamobile.com:6060/yinhe/2/ch00000090990000001019/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
 #EXTINF:-1 tvg-name="CCTV15" tvg-logo="https://gitee.com/jensen6/logo/raw/master/CCTV15.png" epg-url="http://epg.51zmt.top:8000/e.xml.gz,https://live.kilvn.com/epg.xml.gz",CCTV-15
 http://zteres.sn.chinamobile.com:6060/yinhe/2/ch00000090990000001020/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
-#EXTINF:-1 tvg-name="CCTV2" tvg-logo="https://gitee.com/jensen6/logo/raw/master/CCTV2.png" epg-url="http://epg.51zmt.top:8000/e.xml.gz,https://live.kilvn.com/epg.xml.gz",CCTV-2
-http://zteres.sn.chinamobile.com:6060/yinhe/2/ch00000090990000001021/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
 #EXTINF:-1 tvg-name="CCTV9" tvg-logo="https://gitee.com/jensen6/logo/raw/master/CCTV9.png" epg-url="http://epg.51zmt.top:8000/e.xml.gz,https://live.kilvn.com/epg.xml.gz",CCTV-9
 http://zteres.sn.chinamobile.com:6060/yinhe/2/ch00000090990000001023/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
 #EXTINF:-1 tvg-name="CGTN" tvg-logo="https://gitee.com/jensen6/logo/raw/master/CGTN.png" epg-url="http://epg.51zmt.top:8000/e.xml.gz,https://live.kilvn.com/epg.xml.gz",CGTN
